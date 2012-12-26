@@ -34,3 +34,7 @@ First Release
 1.4.1
 
 - Hotfix: forget to reactivate a function :D
+
+1.4.2
+				   X
+-Updated A.I. to 2.2.1 (Detecting XO was buggy (brainfail ;)))
